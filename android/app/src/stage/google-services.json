@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305089613731",
+    "project_id": "nothing-stage",
+    "storage_bucket": "nothing-stage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305089613731:android:b86f24adb8dbb493625416",
+        "android_client_info": {
+          "package_name": "com.nothing.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305089613731-jv54b4gql3rpiof0db31fr1ik1sq1gf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGhOBsl9Qdj-0yX80j0ICGiMEf0fPuEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305089613731-jv54b4gql3rpiof0db31fr1ik1sq1gf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305089613731-16ae0b2ns7kei4q27akni0s9ocj3teer.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nothing.stage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
